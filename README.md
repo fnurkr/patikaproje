@@ -1,0 +1,2 @@
+# patikaproje
+ilk projem
